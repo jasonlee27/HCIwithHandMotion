@@ -1,0 +1,78 @@
+﻿Build started 2016-05-02 오전 12:06:58.
+     1>Project "C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /IC:\opencv\sources\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\MFC_DVProject_04272016_ver2013.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt MFC_DVProject_04272016_ver2013Dlg.cpp
+         MFC_DVProject_04272016_ver2013Dlg.cpp
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(77): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(78): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(164): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(191): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(192): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(193): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(195): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(211): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(231): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(232): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(233): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(174): warning C4101: 'Dist' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(336): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(337): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(400): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(427): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(430): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(456): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(457): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(458): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(460): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(476): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(496): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(497): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(498): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(509): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(313): warning C4101: 'lineSize' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(439): warning C4101: 'Dist' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(606): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(607): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(670): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(704): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(707): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(733): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(734): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(735): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(737): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(754): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(774): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(775): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(776): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(578): warning C4101: 'lineSize' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(716): warning C4101: 'Dist' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(845): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(846): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(876): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(864): warning C4101: 'n' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(960): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(961): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(987): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(994): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(999): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(1001): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(1002): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(1025): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(1047): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(1063): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\x64\Release\MFC_DVProject_04272016_ver2013.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\build\x64\vc11\lib /LIBPATH:C:\opencv\build\x64\vc12\lib /LIBPATH:C:\opencv\build\x86\vc11\lib /LIBPATH:C:\opencv\build\x86\vc12\lib /LIBPATH:C:\opencv\build\x64\vc12\staticlib /LIBPATH:C:\opencv\build\x64\vc11\staticlib opencv_ts300.lib opencv_world300.lib opencv_ts300d.lib opencv_world300d.lib Delayimp.lib /DELAYLOAD:opencv_world300.dll /DELAYLOAD:opencv_world300d.dll /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\x64\Release\MFC_DVProject_04272016_ver2013.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\x64\Release\MFC_DVProject_04272016_ver2013.lib" /MACHINE:X64 x64\Release\MFC_DVProject_04272016_ver2013.res
+         x64\Release\emptyDialog.obj
+         x64\Release\MFC_DVProject_04272016_ver2013.obj
+         x64\Release\MFC_DVProject_04272016_ver2013Dlg.obj
+         x64\Release\NewDialog.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+     1>LINK : warning LNK4199: /DELAYLOAD:opencv_world300d.dll ignored; no imports found from opencv_world300d.dll
+         MFC_DVProject_04272016_ver2013.vcxproj -> C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\x64\Release\MFC_DVProject_04272016_ver2013.exe
+     1>Done Building Project "C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.05

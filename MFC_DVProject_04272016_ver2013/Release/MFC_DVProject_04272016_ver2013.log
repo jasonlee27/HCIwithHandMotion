@@ -1,0 +1,79 @@
+﻿Build started 2016-04-27 오후 4:53:36.
+     1>Project "C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /IC:\opencv\sources\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\MFC_DVProject_04272016_ver2013.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /IC:\opencv\sources\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\MFC_DVProject_04272016_ver2013.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt emptyDialog.cpp MFC_DVProject_04272016_ver2013.cpp MFC_DVProject_04272016_ver2013Dlg.cpp NewDialog.cpp
+         emptyDialog.cpp
+         MFC_DVProject_04272016_ver2013.cpp
+         MFC_DVProject_04272016_ver2013Dlg.cpp
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(65): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(66): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(129): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(137): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(176): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(177): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(197): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(198): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(199): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(145): warning C4101: 'Dist' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(157): warning C4101: 'a' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(158): warning C4101: 'angle' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(157): warning C4101: 'b' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(157): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(306): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(307): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(372): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(379): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(382): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(406): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(407): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(408): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(410): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(425): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(426): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(446): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(447): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(448): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(495): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(510): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(283): warning C4101: 'lineSize' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(389): warning C4101: 'Dist' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(565): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(566): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(640): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(647): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(650): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(674): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(675): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(676): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(678): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(693): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(694): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(714): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(715): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(716): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(535): warning C4101: 'lineSize' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(657): warning C4101: 'Dist' : unreferenced local variable
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(777): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(778): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(779): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(804): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(809): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leej941\documents\visual studio 2013\projects\mfc_dvproject_04272016_ver2013\mfc_dvproject_04272016_ver2013\Header.h(797): warning C4101: 'n' : unreferenced local variable
+         NewDialog.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IRelease\ /nologo /fo"Release\MFC_DVProject_04272016_ver2013.res" MFC_DVProject_04272016_ver2013.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\Release\MFC_DVProject_04272016_ver2013.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\build\x64\vc11\lib /LIBPATH:C:\opencv\build\x64\vc12\lib /LIBPATH:C:\opencv\build\x86\vc11\lib /LIBPATH:C:\opencv\build\x86\vc12\lib opencv_ts300.lib opencv_world300.lib opencv_ts300d.lib opencv_world300d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\Release\MFC_DVProject_04272016_ver2013.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\Release\MFC_DVProject_04272016_ver2013.lib" /MACHINE:X86 /SAFESEH Release\MFC_DVProject_04272016_ver2013.res
+         Release\emptyDialog.obj
+         Release\MFC_DVProject_04272016_ver2013.obj
+         Release\MFC_DVProject_04272016_ver2013Dlg.obj
+         Release\NewDialog.obj
+         Release\stdafx.obj
+     1>opencv_world300.lib(opencv_world300.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "C:\Users\leej941\Documents\Visual Studio 2013\Projects\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013\MFC_DVProject_04272016_ver2013.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.68
